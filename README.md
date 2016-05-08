@@ -9,7 +9,7 @@
 
 Crawls hitas site for new apartments. Adds to list (`found.txt`) if new one that meets requirements is found.
 
-### Usage;
+### Usage
 
 * `clone repo`
 * `npm install`
