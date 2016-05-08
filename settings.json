@@ -1,0 +1,7 @@
+{
+	"location": "helsinki",
+	"type" : "kerrostalo",
+	"size" : [10, 200],
+	"cost" : [10000, 1000000],
+	"rooms" : [1, 10]
+}
